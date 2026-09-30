@@ -1,0 +1,8 @@
+node_modules
+dist
+public/ocr
+test-results
+playwright-report
+coverage
+*.local
+.DS_Store
