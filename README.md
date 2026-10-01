@@ -6,7 +6,7 @@
 
 <sub>Left to right: scan screen, the pre-filled review form, the note queued while offline, and the same note after it synced. All captured from the real build by `scripts/take-screenshots.mjs`.</sub>
 
-> **Live demo:** _(added once deployed - see [Deploying](#deploying-the-demo-to-github-pages))_ · Tap **Try a sample invoice** to run the whole flow without a paper invoice. Then open **Settings → Simulate being offline** to watch notes queue and sync.
+> **Live demo:** https://jcsv1991.github.io/offline-invoice-scanner/ · Tap **Try a sample invoice** to run the whole flow without a paper invoice. Then open **Settings → Simulate being offline** to watch notes queue and sync.
 
 ---
 
